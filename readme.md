@@ -25,8 +25,8 @@ O **Medical Image Control** é uma aplicação desenvolvida em [Electron](https:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-repositorio.git
-   cd seu-repositorio
+   git clone git@github.com:DaquinoS/Medical-Image-Control.git
+   cd Medical-Image-Control
    ```
 2. Instale as dependências:
    ```bash
